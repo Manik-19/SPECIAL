@@ -211,7 +211,6 @@ def rcrack1(uid,pwx,tl):
            'accept-language': 'en-GB,en;q=0.9,bn-BD;q=0.8,bn;q=0.7,en-US;q=0.6',
            'cache-control': 'max-age=0',
            'cookie': 'datr=XH2xZEEDklNCXpHYR6BlOvMV; sb=XH2xZLeAfBRt0RQmdyIpZfZH; m_pixel_ratio=1.875; wd=384x726; fr=0NkP7Dar2dCiofbXo..BksX1c.Eh.AAA.0.0.BktJRM.AWUXU-hg_vk',
-           'sec-ch-prefers-color-scheme': 'light',
            'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
            'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
            'sec-ch-ua-mobile': '?1',
